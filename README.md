@@ -1,2 +1,4 @@
-# js-developer-pokedex
-consumo de uma API REST para a criaÃ§Ã£o de uma PokÃ©dex
+# Trilha Developer Javascript - Projeto Pokedex
+
+
+## Consumindo uma API REST para a criação de uma Pokédex incrível! Para isso, exploramos, além do JavaScript, todos os fundamentos de desenvolvimento Web.
